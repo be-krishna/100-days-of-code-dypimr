@@ -25,10 +25,18 @@ For those who are in doubt what language to choose, we suggest starting with C++
 
 [![Thumbnail of Video Learn Git & Github](http://img.youtube.com/vi/aQatrXw0njs/0.jpg)](http://www.youtube.com/watch?v=aQatrXw0njs)
 
+### Python
+1.[Complete Python Tutorial in Hindi](https://youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+
 ### Git & Version Control
 1. [Learn complete Git and GitHub by Anuj Bhaiya](https://youtu.be/uaeKhfhYE0U)
 
 [![Thumbnail of Video Learn Git & Github](http://img.youtube.com/vi/uaeKhfhYE0U/0.jpg)](http://www.youtube.com/watch?v=uaeKhfhYE0U)
+
+### Web Developer
+1.[HTML and CSS Tutorial in Hindi | Complete Course (2020)](https://youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB)
+2.[Javascript Beginning To Mastery Complete Course 2021 (In Hindi)](https://youtube.com/playlist?list=PLwgFb6VsUj_n15Cg_y2ULKfsOR1XiQqPx)
+
 
 ### For those who prefer text over video and want a more rigorous and challenging tutorial
 1. [Java Programming](https://java-programming.mooc.fi/)
