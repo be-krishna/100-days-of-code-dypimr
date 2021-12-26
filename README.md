@@ -49,3 +49,8 @@ For those who are in doubt what language to choose, we suggest starting with C++
 3. Take a number as input and print the multiplication table for it.
 4. Take two numbers as inputs and find their HCF and LCM.
 5. Keep taking numbers as inputs till the user enters 'x', after that print the sum of all.
+
+### Day 2
+1. Write a program to print whether a number is even or odd, also take input.
+2. Take name as input and print a greeting message for that name.
+3. Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
