@@ -54,3 +54,43 @@ For those who are in doubt what language to choose, we suggest starting with C++
 1. Write a program to print whether a number is even or odd, also take input.
 2. Take name as input and print a greeting message for that name.
 3. Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
+
+### Day 3
+1. The table below describes how the grade for a particular course is determined. Write a program that gives a course grade according to the provided table.
+
+   | points | grade       |
+   | ------ | ----------- |
+   | < 0    | impossible! |
+   | 0-49   | failed      |
+   | 50-59  | 1           |
+   | 60-69  | 2           |
+   | 70-79  | 3           |
+   | 80-89  | 4           |
+   | 90-100 | 5           |
+   | > 100  | incredible! |
+   
+   Sample outputs:
+   ```
+   Give points [0-100]:
+   37
+   Grade: failed
+   ```
+   ```
+   Give points [0-100]:
+   -3
+   Grade: impossible!
+   ```
+2. Write a program that prompts the user for a number between one and one hundred, and prints that number. If the number is divisible by three, then print "Fizz" instead of the number. If the number is divisible by five, then print "Buzz" instead of the number. If the number is divisible by both three and five, then print "FizzBuzz" instead of the number.
+
+   Sample outputs:
+   ```
+   2
+   2
+
+   5
+   Buzz
+
+   30
+   FizzBuzz
+   ```
+3. Write a program that reads values from the user until they input a 0. After this, the program prints the total number of inputted values. The zero that's used to exit the loop should not be included in the total number count.
