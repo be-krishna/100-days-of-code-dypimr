@@ -11,6 +11,8 @@ public class Ques3 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
+    // Read required input from user
+
     System.out.println("Principal Amount: ");
     int principal = Integer.valueOf(scanner.nextLine());
 
@@ -20,6 +22,7 @@ public class Ques3 {
     System.out.println("Rate of interest: ");
     float rate = Float.valueOf(scanner.nextLine());
 
+    // Calulate the interest
     float simple_interest = (principal * rate * time) / 100;
 
     System.out.println("Calcuated Interest: " + simple_interest);
