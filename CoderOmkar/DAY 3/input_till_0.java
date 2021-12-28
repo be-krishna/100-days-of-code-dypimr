@@ -19,7 +19,7 @@ public class Main {
             if(n==0){
                 break;
             }
-            //increase by counter 1
+            //increase counter by 1
             //after that we want to count number of n ,alternatively we also do cn+=1,(cn=cn+1)
             cn++;
  }
