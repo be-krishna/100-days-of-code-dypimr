@@ -97,7 +97,7 @@ For those who are in doubt what language to choose, we suggest starting with C++
 
 ### Day 4
 Today we will have only one question which has 5 parts
- 1. Implement a program that asks the user for numbers (the program first prints "Write numbers: ") until the user gives the number -1. When the user writes -1, the program prints "Thx! Bye!" and ends.
+1. Implement a program that asks the user for numbers (the program first prints "Write numbers: ") until the user gives the number -1. When the user writes -1, the program prints "Thx! Bye!" and ends.
     ```
     Give numbers:
     5
@@ -106,7 +106,7 @@ Today we will have only one question which has 5 parts
     -1
     Thx! Bye!
     ```
- 2. Implement a program that asks the user for numbers (the program first prints "Write numbers: ") until the user gives the number -1. When the user writes -1, the program prints "Thx! Bye!" and ends.
+2. Extend the program so that it prints the sum of the numbers (not including the -1) the user has written.
     ```
     Give numbers:
     5
@@ -116,7 +116,7 @@ Today we will have only one question which has 5 parts
     Thx! Bye!
     Sum: 11
     ```
- 3. Extend the program so that it also prints the number of numbers (not including the -1) the user has written.
+3. Extend the program so that it also prints the number of numbers (not including the -1) the user has written.
     ```
     Give numbers:
     5
@@ -127,7 +127,7 @@ Today we will have only one question which has 5 parts
     Sum: 11
     Numbers: 3
     ```
- 4. Extend the program so that it prints the mean of the numbers (not including the -1) the user has written.
+4. Extend the program so that it prints the mean of the numbers (not including the -1) the user has written.
     ```
     Give numbers:
     5
@@ -139,7 +139,7 @@ Today we will have only one question which has 5 parts
     Numbers: 3
     Average: 3.666666666666
     ```
- 5. Extend the program so that it prints the number of even and odd numbers (excluding the -1).
+5. Extend the program so that it prints the number of even and odd numbers (excluding the -1).
     ```
     Give numbers:
     5
