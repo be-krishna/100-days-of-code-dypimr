@@ -9,7 +9,7 @@ package Day_4;
 
 import java.util.Scanner;
 
-public class Que1 {
+public class Que {
 
 	public static void main(String[] args) {
 		
