@@ -1,0 +1,169 @@
+Question 1 :-
+
+import java.util.Scanner;
+
+public class Count
+{
+   public static void main(String args[])
+   {
+     Scanner sc = new Scanner (System.in);
+    System.out.println("Enter the any value: ");
+   while (true)
+   {
+     int d= sc.nextInt();
+   
+      if(d == -1)
+      {
+        break;
+      }
+   }
+    System.out.println("Thanks ! Byee ");
+    }
+   }
+
+
+
+Question 2:-
+
+import java.util.Scanner;
+public class D4{
+  public static void main (String []args)
+  {
+    Scanner sc = new Scanner (System.in);
+    System.out.println("Give the number");
+    int n=0;
+    while(true)
+    {
+      int j = sc.nextInt();
+     
+      if(j== -1)
+      {
+        break;
+      }
+      n = n+j;
+    }
+    System.out.println("Thanks! Bye....");
+   
+    System.out.println("Sum : "+n);
+  }
+}
+
+
+
+Question 3:-
+
+import java.util.Scanner;
+public class Number{
+  public static void main (String []args)
+  {
+    Scanner sc = new Scanner (System.in);
+    System.out.println("Give the number");
+    int n=0;
+    int v=0;
+    while(true)
+    {
+      int j = sc.nextInt();
+     
+      if(j== -1)
+      {
+        break;
+      }
+      n = n+j;
+      v=v+1;
+    }
+    System.out.println("Thanks! Bye....");
+   
+    System.out.println("Sum : "+n);
+   
+    System.out.println("Number : "+v);
+  }
+}
+
+
+
+Question 4:-
+
+import java.util.Scanner;
+public class Number{
+  public static void main (String []args)
+  {
+  
+    Scanner sc = new Scanner (System.in);
+    System.out.println("Give the number");
+    int n=0;
+    int v=0;
+    double avg=0;
+  
+    while(true)
+    {
+      int j = sc.nextInt();
+     
+      if(j== -1)
+      {
+        break;
+      }
+      n = n+j;
+      v=v+1;
+      avg=n/v;
+     
+    }
+    System.out.println("Thanks! Bye....");
+   
+    System.out.println("Sum : "+n);
+   
+    System.out.println("Number : "+v);
+   
+    System.out.println("Average:"+avg);
+  }
+}
+
+
+
+Question 5:-
+
+import java.util.Scanner;
+public class Number{
+  public static void main (String []args)
+  {
+  
+    Scanner sc = new Scanner (System.in);
+    System.out.println("Give the number");
+    int n=0;
+    int v=0;
+    double avg=0;
+    int even = 0, odd =0;
+  
+    while(true)
+    {
+      int j = sc.nextInt();
+     
+      if(j== -1)
+      {
+        break;
+      }
+      else if(j%2==0)
+      {
+        even=even+1;
+      }
+      else
+      {
+        odd=odd+1;
+      }
+      n = n+j;
+      v=v+1;
+      avg=n/v;
+     
+    }
+    System.out.println("Thanks! Bye....");
+   
+    System.out.println("Sum : "+n);
+   
+    System.out.println("Number : "+v);
+   
+    System.out.println("Average:"+avg);
+   
+    System.out.println("even :"+even);
+   
+    System.out.println("odd :"+odd);
+  }
+}
