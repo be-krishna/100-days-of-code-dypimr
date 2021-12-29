@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //declare n initialize sum as 1
+        //declare and initialize elements
         int n,sum=0,count=0,even=0,odd=0;
         double avg=0;
         
