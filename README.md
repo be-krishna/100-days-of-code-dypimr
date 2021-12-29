@@ -156,10 +156,10 @@ Today we will have only one question which has 5 parts
 
 ### Day 5
 
-1.Write a program that prompts the user to input an integer and then outputs the number with the digits reversed. For example, if the input   is 12345, the output should be 54321.
+1. Write a program that prompts the user to input an integer and then outputs the number with the digits reversed. For example, if the input   is 12345, the output should be 54321.
 
-2.Write a program to print Fibonacci series of n terms where n is input by user :
-    0 1 1 2 3 5 8 13 24 ..... 
+2. Write a program to print Fibonacci series of n terms where n is input by user :
+   > 0 1 1 2 3 5 8 13 24 ..... 
 
-3.Write a program to calculate the sum of following series where n is input by user. 
-     1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n 
+3. Write a program to calculate the sum of following series where n is input by user. 
+    > 1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n 
