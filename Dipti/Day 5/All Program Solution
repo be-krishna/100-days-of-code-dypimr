@@ -1,0 +1,68 @@
+Question 1 :-
+
+class Main {
+  public static void main(String[] args) {
+
+    int num = 12345, reversed = 0;
+
+   while(num != 0)
+     {
+      int digit = num % 10;
+      reversed = reversed * 10 + digit;
+      num /= 10;
+     }
+
+    System.out.println("Reversed Number: " + reversed);
+  }
+}
+
+
+
+Question 2:-
+
+import java.util.Scanner;
+public class main
+{
+  public static void main (String []args)
+  {
+    Scanner sc = new Scanner (System.in);
+    int sum =0,n;
+    int a=0;
+    int b=1;
+    System.out.println("Enter the nth value:");
+    n= sc.nextInt();
+    System.out.println("Fibonacci series is :");
+    while(sum <= n)
+    {
+      System.out.println(sum+ "");
+      a=b;
+      b=sum;
+      sum= a+b;
+     
+    }
+   
+  }
+}
+
+Question 3:-
+
+import java.util.Scanner;
+
+// Compiler version JDK 11.0.2
+
+public class Dcoder
+{
+   public static void main(String args[])
+   {
+    Scanner sc = new Scanner (System.in);
+    int num ;
+    double sum=0;
+    System.out.println("Enter the term :");
+    num = sc.nextInt();
+    for(int i=1;i<=num;i++ )
+    {
+      sum = 1.0/i;
+    }
+    System.out.println("Sum of following series is :"+sum);
+   }
+}
