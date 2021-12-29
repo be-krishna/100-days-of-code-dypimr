@@ -1,0 +1,21 @@
+import java.util.*;
+
+ // Compiler version JDK 11.0.2
+
+ class Dcoder
+ {
+   public static void main(String args[])
+   { 
+     
+    Scanner sc =new Scanner(System.in);
+    System.out.println("Enter the Numbers: ");
+    int n = sc.nextInt();
+    while(n!=0)
+    {
+      n=n%10;
+      System.out.print(n);
+      n--;
+    }
+    
+   }
+ }
