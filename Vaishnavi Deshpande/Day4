@@ -1,0 +1,46 @@
+import java.util.Scanner;
+public class day4 {
+    public static void main(String[] args) {
+        int sum=0 , even=0 , odd=0 , count=0 , num;
+        float avg=0;
+        
+        /*1)*/
+        while(true)
+        {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number: ");
+        num = sc.nextInt();
+        if(num == -1)
+            {
+            System.out.println("Thnx! Bye!");   
+            break;
+            }
+        /**2)Sum */
+        sum +=num;
+        /*3) count*/
+        
+        count = count+1;
+        /**4)avg */
+        avg= sum/count;
+        
+        /**5)even and odd */
+        if(num % 2==0)
+            {
+                even++;
+            }
+            else
+            {
+                odd++;
+                
+            }
+        
+        }
+        System.out.println("the sum is:" + sum); 
+        System.out.println("count is:" + count);  
+        System.out.println("avg is:" + avg); 
+        System.out.println("Even No:" + even);
+        System.out.println("Odd No :" +odd);
+ 
+
+    }
+}
