@@ -14,17 +14,17 @@ public class Main {
 
         //if condition for check n is negative or not
         if(n<0){
-            System.out.println("number is negative");
+            System.out.println("number is Negative");
         }
         
         //if "if condition" fails then else if condition will run
         else if(n==0){
-            System.out.println("neutral");
+            System.out.println("Neutral");
         }
         
         //if "if condition","else if condition" fails then finally else condition will run
         else{
-            System.out.println("number is negative");
+            System.out.println("number is Positive");
         }
 
 
