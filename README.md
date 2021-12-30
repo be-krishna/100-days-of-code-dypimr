@@ -163,3 +163,33 @@ Today we will have only one question which has 5 parts
 
 3. Write a program to calculate the sum of following series where n is input by user. 
     > 1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n 
+
+
+#### Day 6
+
+1.Take three numbers from the user and print the greatest number?
+Input the 1st number: 25
+Input the 2nd number: 78
+Input the 3rd number: 87
+Expected Output :
+The greatest: 87
+
+
+
+2. Write a Java program to find the number of days in a month.
+Input a month number: 2
+Input a year: 2016
+Expected Output :
+February 2016 has 29 days 
+
+3.Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday.
+Input number: 3
+Expected Output :
+Wednesday
+
+4.Write a Java program that reads an integer and check whether it is negative, zero, or positive.
+Input a number: 7
+Expected Output :
+
+Number is positive
+
