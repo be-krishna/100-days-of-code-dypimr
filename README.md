@@ -184,7 +184,7 @@ Today we will have only one question which has 5 parts
    Expected Output :
    February 2016 has 29 days 
    ```
-3. Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday.
+3. Write a Java program that takes a number from the user between 1 and 7 and displays the name of the weekday.
    ```
    Input number: 3
    
