@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         int n;
+        //scanner class
         Scanner sc = new Scanner(System.in);
 
         System.out.println("enter the number : ");
@@ -15,9 +16,15 @@ public class Main {
         if(n<0){
             System.out.println("number is negative");
         }
-        //if "if condition" fails then automatically else condition will run
+        
+        //if "if condition" fails then else if condition will run
+        else if(n==0){
+            System.out.println("neutral");
+        }
+        
+        //if "if condition","else if condition" fails then finally else condition will run
         else{
-            System.out.println("number is positive");
+            System.out.println("number is negative");
         }
 
 
