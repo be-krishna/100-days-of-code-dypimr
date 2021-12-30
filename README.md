@@ -165,7 +165,7 @@ Today we will have only one question which has 5 parts
     > 1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n 
 
 
-#### Day 6
+### Day 6
 
 1. Take three numbers from the user and print the greatest number?
    ```
