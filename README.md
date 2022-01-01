@@ -198,3 +198,40 @@ Today we will have only one question which has 5 parts
 
    Number is positive
    ```
+   
+   #### Day 7
+   
+   1.Write a program in Java to display the pattern like right angle triangle with a number.
+   ```
+   Input number of rows : 10
+   Expected Output :
+
+   1                                                                                
+   12                                                                               
+   123                                                                              
+   1234                                                                             
+   12345                                                                            
+   123456                                                                           
+   1234567                                                                          
+   12345678                                                                         
+   123456789                                                                        
+   12345678910
+   ```
+   2.Write a program in Java to make such a pattern like right angle triangle with a number which will repeat a number in a row.
+   ```
+   Expected Output :
+   1
+   22
+   333
+   4444
+   ```
+   
+   3.Write a program in Java to make such a pattern like right angle triangle with number increased by 1.
+   
+   ```
+   The pattern like:
+   1
+   2 3
+   4 5 6
+   7 8 9 10
+   ```
