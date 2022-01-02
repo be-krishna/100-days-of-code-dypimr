@@ -25,3 +25,9 @@ replay_pid*
 
 # testing file
 temp.java
+
+#vscode configuration
+.vscode/
+
+#Java project Readme
+README.md
