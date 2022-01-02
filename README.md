@@ -199,7 +199,7 @@ Today we will have only one question which has 5 parts
    Number is positive
    ```
    
-   #### Day 7
+### Day 7
    
    1.Write a program in Java to display the pattern like right angle triangle with a number.
    ```
