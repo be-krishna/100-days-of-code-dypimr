@@ -201,7 +201,7 @@ Today we will have only one question which has 5 parts
    
 ### Day 7
    
-   1.Write a program in Java to display the pattern like right angle triangle with a number.
+1. Write a program in Java to display the pattern like right angle triangle with a number.
    ```
    Input number of rows : 10
    Expected Output :
@@ -217,7 +217,7 @@ Today we will have only one question which has 5 parts
    123456789                                                                        
    12345678910
    ```
-   2.Write a program in Java to make such a pattern like right angle triangle with a number which will repeat a number in a row.
+2. Write a program in Java to make such a pattern like right angle triangle with a number which will repeat a number in a row.
    ```
    Expected Output :
    1
@@ -226,7 +226,7 @@ Today we will have only one question which has 5 parts
    4444
    ```
    
-   3.Write a program in Java to make such a pattern like right angle triangle with number increased by 1.
+3. Write a program in Java to make such a pattern like right angle triangle with number increased by 1.
    
    ```
    The pattern like:
@@ -238,7 +238,7 @@ Today we will have only one question which has 5 parts
 
 ### Day 8
 
-   1.Hollow Square Star Pattern in java.
+1. Hollow Square Star Pattern in java.
     ``` 
      The pattern like:
 
@@ -250,7 +250,7 @@ Today we will have only one question which has 5 parts
     
     ```
 
-    2.Right Angled Triangle Star Pattern in java. 
+2. Right Angled Triangle Star Pattern in java. 
     ```
     The pattern like:
    
@@ -261,7 +261,7 @@ Today we will have only one question which has 5 parts
     * * * * * 
     ```
 
-    3.Equilateral Triangle Star Pattern in java.
+3. Equilateral Triangle Star Pattern in java.
     ```
     The pattern like:
          *   
@@ -270,4 +270,22 @@ Today we will have only one question which has 5 parts
       * * * * 
      * * * * * 
      ```
+4. `Optional for Day 8` Write a program which prints out chessboard made out of ones and zeroes. Length of cessboard should be user specified
+   ```
+   Enter length: 3
 
+   101
+   010
+   101
+      
+   ```
+   ```
+   Enter length: 6
+
+   101010
+   010101
+   101010
+   010101
+   101010
+   010101
+   ```
