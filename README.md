@@ -235,3 +235,38 @@ Today we will have only one question which has 5 parts
    4 5 6
    7 8 9 10
    ```
+
+### Day 7
+
+   1.Hollow Square Star Pattern in java.
+    ``` 
+     The pattern like:
+     *  *  *  *  *  
+     *           *  
+     *           *  
+     *           *  
+     *  *  *  *  * 
+     ```
+
+    2.Right Angled Triangle Star Pattern in java. 
+    ```
+    The pattern like:
+   
+    * 
+    * * 
+    * * * 
+    * * * * 
+    * * * * * 
+    ```
+
+    3.Equilateral Triangle Star Pattern in java.
+    ```
+    The pattern like:
+         *   
+        * * 
+       * * * 
+      * * * * 
+     * * * * * 
+     ```
+
+
