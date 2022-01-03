@@ -236,7 +236,7 @@ Today we will have only one question which has 5 parts
    7 8 9 10
    ```
 
-### Day 7
+### Day 8
 
    1.Hollow Square Star Pattern in java.
     ``` 
@@ -270,5 +270,4 @@ Today we will have only one question which has 5 parts
       * * * * 
      * * * * * 
      ```
-
 
