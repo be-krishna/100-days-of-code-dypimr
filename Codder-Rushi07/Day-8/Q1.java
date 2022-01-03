@@ -3,7 +3,7 @@ import java.util.*;
  /*.Right angle Triangle Star Pattern
   in java.*/
 
- class Q2
+ class Q1
  {
    public static void main(String args[])
    {
