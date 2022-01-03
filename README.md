@@ -241,12 +241,14 @@ Today we will have only one question which has 5 parts
    1.Hollow Square Star Pattern in java.
     ``` 
      The pattern like:
+
      *  *  *  *  *  
      *           *  
      *           *  
      *           *  
      *  *  *  *  * 
-     ```
+    
+    ```
 
     2.Right Angled Triangle Star Pattern in java. 
     ```
