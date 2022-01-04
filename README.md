@@ -289,11 +289,13 @@ Today we will have only one question which has 5 parts
    101010
    010101
    ```
+   ``` 
    
-   #### Day 9
-   1.Right Pascal’s Triangle
-     ```
-      Enter the number of rows: 5
+   ``` 
+ #### Day 9
+ 1. Right Pascal’s Triangle
+    ``` 
+     Enter the number of rows: 5
 
       * 
       * * 
@@ -304,11 +306,11 @@ Today we will have only one question which has 5 parts
       * * * 
       * * 
       * 
-     ```
-     
-  2.Sandglass Star Pattern
-      ```
-         Enter the number of rows: 5
+    ```
+  
+  2.Sandglass Star Pattern.
+   ``` 
+   Enter the number of rows: 5
 
          * * * * * 
           * * * * 
@@ -320,39 +322,41 @@ Today we will have only one question which has 5 parts
            * * * 
           * * * * 
          * * * * * 
-      ```
-      
-  
+   ```
      
   3. Triangle Star pattern
      ```
-    Enter the number of rows: 5
-    The pattern like:
-         *   
-        * * 
-       *   * 
-      *     * 
-     * * * * * 
-     ```
+      Enter the number of rows: 5
+      The pattern like:
+           *   
+          * * 
+         *   * 
+        *     * 
+       * * * * * 
 
   4. Draw Square pattern as per user input. If user input is 2 then program will draw 2x2 square, if user input is 3 then it will print 3x3 squares like given below :
    ```
    Enter Your Number : 1
-   * * * * *
-   *       *
-   *       *
-   *       *
-   * * * * *
+   The pattern like:
+
+     *  *  *  *  *  
+     *           *  
+     *           *  
+     *           *  
+     *  *  *  *  * 
    ```
    ```
     Enter Your Number : 2
-   * * * * * * * * *
-   *       *       *
-   *       *       *
-   *       *       *
-   * * * * * * * * * 
-   *       *       *
-   *       *       *
-   *       *       *
-   * * * * * * * * *
+    The pattern like:
+
+     *  *  *  *  *  *  *  *  *   
+     *           *           *  
+     *           *           *  
+     *           *           *  
+     *  *  *  *  *  *  *  *  * 
+     *           *           *  
+     *           *           *  
+     *           *           *  
+     *  *  *  *  *  *  *  *  * 
+   
    ```
