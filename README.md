@@ -358,37 +358,45 @@ Today we will have only one question which has 5 parts
       
       ```
 
-
 ### Day 10
- 1. Write a Java program to sort a numeric array and a string array.
-  ```
-    Original numeric array : [1789, 2035, 1899, 1456, 2013, 1458, 2458, 1254, 1472, 2365, 1456, 2165, 1457, 2456] // if you Input this type 
-    Sorted numeric array : [1254, 1456, 1456, 1457, 1458, 1472, 1789, 1899, 2013, 2035, 2165, 2365, 2456, 2458]   // after sorting it will look like this
-  ```
+   1. Write a Java program to sort a numeric array and a string array.
+      ```
+      Original numeric array : [1789, 2035, 1899, 1456, 2013, 1458, 2458, 1254, 1472, 2365, 1456, 2165, 1457, 2456] // if you Input this type 
+      Sorted numeric array : [1254, 1456, 1456, 1457, 1458, 1472, 1789, 1899, 2013, 2035, 2165, 2365, 2456, 2458]   // after sorting it will look like this
+      ```
 
-  2. Write a Java program to sum values of an array.
-  ```
-   your Array looks like this :- [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] // 
-   output: The sum is 55
-  ```
-  
-3. Write a Java program to calculate the average value of array elements.
- ```
-  Output:Average value of the array elements is : 7.0 
- ```
+   2. Write a Java program to sum values of an array.
+      ```
+      your Array looks like this :- [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] // 
+      output: The sum is 55
+      ```
+   
+   3. Write a Java program to calculate the average value of array elements.
+      ```
+   Output:Average value of the array elements is : 7.0 
+      ```
  
- 4. Write a Java program to print the 10 x 10  grid. 
- ```
-  Expected Output :
+   4. Write a Java program to print the 10 x 10  grid. 
+      ```
+      Expected Output :
 
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -                                                                                           
-  - - - - - - - - - -  
- ```
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -                                                                                           
+      - - - - - - - - - -  
+      ```
+
+### Day 11
+   1. Write a Java program to find the index of an array element.
+
+   2. Write a Java program to find the maximum and minimum value of an array. 
+
+   3. Write a Java program to reverse an array of integer values.
+
+   4. Write a Java program to find the duplicate values of an array of string values.
