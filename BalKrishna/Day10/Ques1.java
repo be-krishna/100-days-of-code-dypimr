@@ -1,4 +1,3 @@
-package BalKrishna.Day10;
 
 import java.util.Arrays;
 

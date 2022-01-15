@@ -1,4 +1,3 @@
-package BalKrishna.Day10;
 
 /**
  * Question 2:
