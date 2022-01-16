@@ -1,4 +1,3 @@
-package BalKrishna.Day8;
 
 import java.util.Scanner;
 

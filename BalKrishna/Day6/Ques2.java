@@ -1,4 +1,3 @@
-package BalKrishna.Day6;
 
 import java.time.YearMonth;
 import java.util.Scanner;
